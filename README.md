@@ -13,10 +13,3 @@ Specifically, we provide [Script of Script (SoS)](https://vatlab.github.io/sos-d
 8. RNA velocity analysis using the dynamical model from scvelo (Python Jupyter Notebook)
 9. Fate mapping analysis based on the RNA velocity using CellRank (Python Jupyter Notebook)
 10. Double bar heatmap of cluster marker genes (SoS)
-
-The /data_utils/ folder contains files needed to run the codes.
-
-The UMI count matrices can be downloaded from the Gene Expression Omnibus (GEO) with accession number XXX.
-
-If you use our code and/or data, please cite:
-ADD CITATION
