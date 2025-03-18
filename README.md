@@ -1,7 +1,7 @@
 # Analysis of scRNA-seq data from nuclear transfer and in vitro fertilized Xenopus Laevis embryos #
 [![DOI](https://zenodo.org/badge/328938212.svg)](https://doi.org/10.5281/zenodo.14982290)
 
-This repository contains the code associated to the manuscript [Zikmund*, Fiorentino*, et al, Differentiation Success of Reprogrammed Cells is Heterogenous In Vivo and Modulated by Somatic Cell Identity Memory, biorxiv, 2024](https://www.biorxiv.org/content/10.1101/2024.07.05.602198v2).
+This repository contains the code associated to the manuscript [Zikmund*, Fiorentino*, et al, Differentiation Success of Reprogrammed Cells is Heterogenous In Vivo and Modulated by Somatic Cell Identity Memory, Stem Cell Reports, 2025](https://doi.org/10.1016/j.stemcr.2025.102447).
 
 Specifically, we provide [Script of Script (SoS)](https://vatlab.github.io/sos-docs/notebook.html) Jupyter notebooks, R scripts and Python Jupyter notebooks to perform:
 1. Batch integration using Seurat, robustness analysis for cell clustering and cell clustering using the Louvain algorithm (SoS)
